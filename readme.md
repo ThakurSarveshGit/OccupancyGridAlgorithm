@@ -20,3 +20,7 @@ a robot equipped with eight sonar rangefinder sensors circulates in an environme
 1. File Scan: Scanning both the measurement and poses files to retrieve the values. At each time stamp, the values are passed to the occupancy grid mapping function.
 
 2. Display Map: After processing all the measurements and poses, the map is displayed.
+
+# Final Result
+
+![Final Result](Images/Map.png)
